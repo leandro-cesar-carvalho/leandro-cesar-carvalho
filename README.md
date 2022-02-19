@@ -1,6 +1,6 @@
 <h1> Hi, I’m Leandro Carvalho! </h1>
 <p style="font-size:20px"> My main goal is innovate the technology market, creating something that will get better the life of the people and can be used anywhere. </p>
-<p style="font-size:20px">I’m currently learning Vue JS</p>
+<p style="font-size:20px">I’m currently learning Vue JS and using the Node JS / Express environment server to make requests or irserting data in the database of my projects with MySQL</p>
 
 <a href="https://github.com/leandro-cesar-carvalho">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandro-cesar-carvalho&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
