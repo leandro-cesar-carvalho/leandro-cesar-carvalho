@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Leandro Carvalho
-- 👀 My main goal is innovate the technology market, creating something that will get better the life of the people and can be used anywhere.
-- 🌱 I’m currently learning Vue JS
+<h1> Hi, I’m Leandro Carvalho! </h1>
+<p style="font-size:20px"> My main goal is innovate the technology market, creating something that will get better the life of the people and can be used anywhere. </p>
+<p style="font-size:20px">I’m currently learning Vue JS</p>
 
 <a href="https://github.com/leandro-cesar-carvalho">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandro-cesar-carvalho&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
