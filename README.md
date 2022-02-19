@@ -3,7 +3,7 @@
 <p style="font-size:20px">I’m currently learning Vue JS</p>
 
 <a href="https://github.com/leandro-cesar-carvalho">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandro-cesar-carvalho&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandro-cesar-carvalho&show_icons=true&bg_color=DEG,#580000,#000000&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandro-cesar-carvalho&layout=compact&langs_count=7&theme=codeSTACKr"/>
   
 <div style="display: inline_block"><br>
