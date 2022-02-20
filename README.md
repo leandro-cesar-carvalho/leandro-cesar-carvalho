@@ -1,5 +1,5 @@
 <h1 style="text-align:center"> Hi, I’m Leandro Carvalho! </h1>
-<a href="www.linkedin.com/in/leandro-cesar-carvalho"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="www.linkedin.com/in/leandro-cesar-carvalho"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><br><br>
 <p style="font-size:20px"> My main goal is innovate the technology market, creating something that will get better the life of the people and can be used anywhere. </p>
 <p style="font-size:20px">I’m currently learning Vue JS and using the Node JS / Express environment server to make requests or irserting data in my projects database with MySQL</p>
 
